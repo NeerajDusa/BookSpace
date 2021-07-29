@@ -2674,7 +2674,6 @@ header.ui.jumbotron.segment {
   background-position: center;
   z-index: 1;
   background-color: black;
-  background-image: url("images/galaxy.jpg");
   background-blend-mode: normal;
   -webkit-user-select: none;
   -moz-user-select: none;
